@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.DovzhenkoTV" parent="@style/Theme.Leanback">
+        <item name="browseTitleViewLayout">@layout/titleview</item>
+    </style>
+    <style name="Theme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

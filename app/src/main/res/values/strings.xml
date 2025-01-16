@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dovzhenko TV</string>
+    <string name="browse_title">Online Dovzhenko Centre</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="watch_trailer_1">Дивитись трейлер</string>
+    <string name="watch_trailer_2">БЕЗКОШТОВНО</string>
+    <string name="watch_movie_1">Дивитись</string>
+    <string name="watch_movie_2">ФІЛЬМ</string>
+    <string name="movie">Movie</string>
+    <string name="all_movies">Каталог фільмів</string>
+    <string name="bought_movies">Придбані перегляди</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+</resources>
